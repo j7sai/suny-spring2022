@@ -1,1 +1,1 @@
-"# suny-spring2022" 
+# suny-spring2022
